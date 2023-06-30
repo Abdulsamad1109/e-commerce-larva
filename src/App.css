@@ -1,0 +1,56 @@
+.logo{
+    width:120px;
+}
+
+h1{
+    font-size: 1rem;
+}
+
+button{
+    border: none;
+    background-color: inherit;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: #FF5722;
+}
+
+a:hover{
+    color: #FF5722;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+button.search-btn{
+    background-color: #FF5722;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: #1E1B1B;
+    padding: 5px;
+    font-weight: bold;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+}
+
+.cards{
+    width: 30%;
+}
+
+.sidebar{
+    width: 20%;
+}
+
+.filter{
+    width: 100%;
+}
