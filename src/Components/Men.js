@@ -12,6 +12,7 @@ const Mens = () => {
     { datas.filter((men)=>{
         if (men.category ==="men's clothing") {
           newArr.push(men)
+          console.log(men);
         }
       })
     }
